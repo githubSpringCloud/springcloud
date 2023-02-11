@@ -53,8 +53,6 @@ i
 9consumer-client/src/main/java/cn/tedu/ConsumerRunApp.java,3\4\345d0030faacfae67fd49bcaee86e3c253b2638f
 s
 Cprovider-user/src/main/java/cn/tedu/controller/HelloController.java,d\2\d29a0ac45ae91746b88a2d1aaf7723226608c224
-t
-Deureka-server/src/main/java/cloud/eureka/server/EurekaServerApp.java,0\d\0d8cf6d81492b7cfcfa8d0a9fd133bf0fd8fe3de
 g
 7provider-user/src/main/java/cn/tedu/ProviderRunApp.java,6\a\6a07a4be46762f4b64a7a3dd0675369724a0047f
 u
@@ -65,8 +63,6 @@ i
 9consumer-hystrix/src/main/java/cn/tedu/HystrixRunApp.java,3\4\34b6509f8391cafefede3b03594508f5e785ace7
 v
 Fconsumer-hystrix/src/main/java/cn/tedu/controller/HelloController.java,2\f\2fc5d4b181f48247fc2be3616715b72e2c7f5e79
-n
->gateway-zuul/src/main/java/cn/tedu/fallback/HelloFallback.java,4\5\4549c0a0cdb21e4565d6d394d2562e370f7643d1
 b
 2gateway-zuul/src/main/java/cn/tedu/ZuulAppRun.java,d\6\d60ff5749570760084b1d5e35667b51db6d34298
 D
@@ -75,5 +71,3 @@ D
 0sidecar/src/main/java/cn/tedu/SidecarRunApp.java,3\3\33ccfa9701e53dd04f6903895020492dc5538e08
 ?
 sidecar/pom.xml,c\e\ce5fcf3fb8b904629380c968603aebe369c448b7
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

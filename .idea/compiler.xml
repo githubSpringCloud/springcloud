@@ -7,17 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="provider-user2" />
         <module name="consumer-hystrix" />
         <module name="provider-cart" />
-        <module name="consumer-feign" />
         <module name="gateway-zuul" />
-        <module name="sidecar" />
-        <module name="consumer-client" />
+        <module name="config-client" />
         <module name="h1" />
         <module name="h2" />
         <module name="eureka-server" />
         <module name="provider-user" />
+        <module name="provider-user2" />
+        <module name="config-server" />
+        <module name="consumer-feign" />
+        <module name="sidecar" />
+        <module name="consumer-client" />
       </profile>
     </annotationProcessing>
   </component>
