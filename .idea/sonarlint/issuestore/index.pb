@@ -7,16 +7,8 @@ F
 provider-user2/pom.xml,c\d\cdc8dcada236617cb3b5aa398ef7af74eab8372e
 E
 provider-user/pom.xml,0\d\0dd4afd26a67c146f149059e4f8a28fb2231d701
-E
-eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
 j
 :provider-user2/java/cn/tedu/controller/UserController.java,c\6\c60da31ee62a94f90949e8381443370ed87ee79c
-m
-=consumer-client/src/main/java/cn/config/RibbonRuleConfig.java,e\0\e0f5e2b0504077eade40317c19c70ccd52aa8448
-f
-6consumer-client/src/main/java/cn/jt/pojo/BasePojo.java,a\a\aad6fce4defc9d23e57aebacb92cbfd34783ee60
-b
-2consumer-client/src/main/java/cn/jt/pojo/Cart.java,3\e\3ef78200664e61aea7dde3af8bcc56a05e478fd3
 d
 4provider-cart/src/main/java/cn/jt/pojo/BasePojo.java,3\b\3ba17d0113a895db2b36a9c9d0ab2752d1eec148
 `
@@ -25,14 +17,6 @@ j
 :provider-cart/src/main/java/cn/jt/common/vo/SysResult.java,e\5\e5fcacdd02e35f8ad4d13f98efdb5a402f4012e0
 E
 provider-cart/pom.xml,e\8\e87a96c93c32e46cce5f036ee5b12be9560921a7
-u
-Econsumer-client/src/main/java/cn/tedu/controller/HelloController.java,6\7\674ff2b81bc237f072655308ee3cf7cd30d31f11
-l
-<consumer-client/src/main/java/cn/jt/common/vo/SysResult.java,2\6\26f283c954ab927b235c9a88e293fca4a04d0548
-G
-consumer-client/pom.xml,7\c\7c3090a21369bdbd4a4e4881bbf42fd9d446ceb4
-t
-Dconsumer-client/src/main/java/cn/tedu/controller/CartController.java,9\0\90eb4f6652ced34622387f881053f91c60a18f72
 s
 Cconsumer-feign/src/main/java/cn/tedu/client/EurekaServiceFeign.java,c\8\c8d5bdab2710356350319a41c96f08a6ffaba5c1
 t
@@ -49,8 +33,6 @@ e
 5consumer-feign/src/main/java/cn/tedu/FeignRunApp.java,9\9\99c148a5132e77c62ab1814ef432ee11467752e4
 `
 0provider-user2/java/cn/tedu/ProviderRunApp2.java,7\e\7e39ffd69c61d1e7fadf907f535f461726f19dad
-i
-9consumer-client/src/main/java/cn/tedu/ConsumerRunApp.java,3\4\345d0030faacfae67fd49bcaee86e3c253b2638f
 s
 Cprovider-user/src/main/java/cn/tedu/controller/HelloController.java,d\2\d29a0ac45ae91746b88a2d1aaf7723226608c224
 g
@@ -71,3 +53,14 @@ D
 0sidecar/src/main/java/cn/tedu/SidecarRunApp.java,3\3\33ccfa9701e53dd04f6903895020492dc5538e08
 ?
 sidecar/pom.xml,c\e\ce5fcf3fb8b904629380c968603aebe369c448b7
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+n
+>gateway-zuul/src/main/java/cn/tedu/fallback/HelloFallback.java,4\5\4549c0a0cdb21e4565d6d394d2562e370f7643d1
+l
+<config-server/src/main/java/com/tedu/ConfigServerRunApp.java,f\4\f4d98d1fb36f81998de7e030e3efcfc23268915b
+t
+Deureka-server/src/main/java/cloud/eureka/server/EurekaServerApp.java,0\d\0d8cf6d81492b7cfcfa8d0a9fd133bf0fd8fe3de
